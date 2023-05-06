@@ -81,18 +81,18 @@ def p(x):
 
 def logo():
     logo =f"""{WHITE}
-db    db .d8888. .88b  d88. d888888b d888888b 
-88    88 88'  YP 88'YbdP`88   `88'     `88'   
-88    88 `8bo.   88  88  88    88       88    
-88    88   `Y8b. 88  88  88    88       88    
-88b  d88 db   8D 88  88  88   .88.     .88.   
-~Y8888P' `8888Y' YP  YP  YP Y888888P Y888888P  {BLUE}X {RED}PATHANI {WHITE}
 
-\t[×] Developed By Usman Gull{EXTRA} (HASHIM)
+H  H  AA   SSS  H  H III M   M 
+H  H A  A S     H  H  I  MM MM 
+HHHH AAAA  SSS  HHHH  I  M M M 
+H  H A  A     S H  H  I  M   M 
+H  H A  A SSSS  H  H III M   M                             
+
+\t[×] Developed By M HASHIM{EXTRA} (HASHIM)
 {WHITE}[•] AUTHOR       : M HASHIM
 {WHITE}[•] WhatsApp     :   +923142247695
 [•] FaceBook     :   M HASHIM
-[•] Version      :   {RED}10.9
+[•] Version      :   {RED}00.1
 {WHITE}[•] YouTube      :   hashim Trick
 
 {WHITE}========HATERXX========FEEL========PAPA==================💔======
@@ -203,7 +203,7 @@ class Main:
         line()
         p(' [•] Total Clone Accounts :  %s '%(len(id)))
         line()
-        p(' [•] Use Flight Mood On Bhsdk Ip Lol Ha ')
+        p(' [•] Use Flight Mood On of ')
         line()
         with tpd(max_workers=30) as saqi:
             for user in id:
